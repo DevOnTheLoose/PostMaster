@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <MailingServiceProviders>
+    <SendGrid>
+      <SendGridApiKey>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</SendGridApiKey>
+    </SendGrid>
+    <MailGun>
+      <BaseUri>https://api.mailgun.net/v3</BaseUri>
+      <MailGunApiKey>key-ab7557abe390ee90b7485cfe6f332386</MailGunApiKey>
+      <Domain>sandboxf8192860e436428fb7587db684ef176d.mailgun.org</Domain>
+    </MailGun>
+  </MailingServiceProviders>
+</root>
